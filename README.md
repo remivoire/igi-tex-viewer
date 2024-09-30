@@ -68,4 +68,4 @@ a simple texture viewer written in python with pyside6 for gui and pil to handle
 
 - some `.tex` files with unusual sizes or formats might not display correctly
 - specific textures in the resource file might fail to load
-
+- `.spr` files still do not load on this implementation, actively being worked on
