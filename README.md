@@ -2,6 +2,8 @@
 
 a simple texture viewer written in python with pyside6 for gui and pil to handle image processing. this tool is specifically designed to view texture files from *igi 2: covert strike* stored in `.res` files. it supports `.tex` and `.tga` image formats and provides functionality to extract and view these images interactively
 
+![screenshot](https://imgur.com/a/igi-2-texture-viewer-UbhANEk)
+
 ## features
 
 - **gui based viewer**: interface built using pyside6
