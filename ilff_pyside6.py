@@ -59,7 +59,7 @@ class ImageViewer(QMainWindow):
 
     def init_ui(self):
         # main window setup
-        self.setWindowTitle('IGI 2 - RES Viewer')
+        self.setWindowTitle('IGI - TEX Viewer')
         self.setGeometry(100, 100, 800, 600)
 
         # central widget creation
