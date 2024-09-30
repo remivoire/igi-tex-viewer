@@ -7,7 +7,6 @@ a simple texture viewer written in python with pyside6 for gui and pil to handle
 - **gui based viewer**: interface built using pyside6
 - **support for .res files**: parses `.res` resource files and displays their content
 - **image handling**: uses `pil` (pillow) library to manipulate and display images
-- **zoom & auto-fit**: supports image zooming using the mouse scroll and auto-fit feature
 - **console debugging**: toggle the internal console to view logs and debug output
 - **image export**: double-click on an image to save it in `.tga` format
 - **responsive design**: adapts the image display to the current window size
